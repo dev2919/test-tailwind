@@ -1,0 +1,74 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 16 Feb 2023 06:03:43 GMT
+ */
+
+:root {
+  --color-brand-accent-500: #ff3300;
+  --color-brand-primary-800: #012a38;
+  --color-brand-lime-500: #bff90b;
+  --color-brand-info-100: #d0e0e1;
+  --color-primary-50: #e5f3fa;
+  --color-primary-100: #b5def0;
+  --color-primary-200: #8ccce6;
+  --color-primary-300: #68badf;
+  --color-primary-400: #4da8d5;
+  --color-primary-500: #3d8cb8;
+  --color-primary-600: #2d6a8a;
+  --color-primary-700: #1d485f;
+  --color-primary-800: #012a38;
+  --color-primary-900: #040f13;
+  --color-neutral-50: #f4f5f7;
+  --color-neutral-100: #eaecee;
+  --color-neutral-200: #d6dadf;
+  --color-neutral-300: #bac1c9;
+  --color-neutral-400: #96a0ac;
+  --color-neutral-500: #6e7a87;
+  --color-neutral-600: #4d5966;
+  --color-neutral-700: #374049;
+  --color-neutral-800: #21262c;
+  --color-neutral-900: #0b0d0f;
+  --color-info-50: #eff5f5;
+  --color-info-100: #d0e0e1;
+  --color-info-200: #b1cbce;
+  --color-info-300: #92b6ba;
+  --color-info-400: #73a1a6;
+  --color-info-500: #59888c;
+  --color-info-600: #456a6d;
+  --color-info-700: #314b4e;
+  --color-info-800: #1e2d2f;
+  --color-info-900: #0a0f10;
+  --color-red-50: #fce9e9;
+  --color-red-100: #f5bdbc;
+  --color-red-200: #ee9190;
+  --color-red-300: #e86564;
+  --color-red-400: #e13837;
+  --color-red-500: #c81f1e;
+  --color-red-600: #9b1817;
+  --color-red-700: #6f1111;
+  --color-red-800: #430a0a;
+  --color-red-900: #160303;
+  --color-orange-50: #feefe7;
+  --color-orange-100: #fbceb6;
+  --color-orange-200: #f9ad86;
+  --color-orange-300: #f68d55;
+  --color-orange-400: #f46c25;
+  --color-orange-500: #da530b;
+  --color-orange-600: #aa4009;
+  --color-orange-700: #792e06;
+  --color-orange-800: #491c04;
+  --color-orange-900: #180901;
+  --color-green-50: #ecf9ee;
+  --color-green-100: #c5eccd;
+  --color-green-200: #9fe0ac;
+  --color-green-300: #78d38a;
+  --color-green-400: #52c769;
+  --color-green-500: #38ad4f;
+  --color-green-600: #297f3a;
+  --color-green-700: #1f602c;
+  --color-green-800: #133a1a;
+  --color-green-900: #061309;
+  --color-base-white: #ffffff;
+  --color-base-black: #000000;
+  --token-set-order-0: global;
+}
