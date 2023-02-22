@@ -10,7 +10,7 @@ jobs:
       id: IPFS
       uses: alexanderschau/ipfs-pinning-action@v1.0.0
       with:
-        path_to_add: './' 
+        path_to_add: './design/' 
         endpoint: ‘https://api.filebase.io/v1/ipfs/pins’
-        access_token: ${{ secrets.ACCESS_TOKEN }} 
+        access_token: ${{ secrets.FILEBASE_SECRET_KEY }} 
         pin_name: 'test-devesh'
